@@ -1,3 +1,9 @@
+# Contact Manager
+
+### Using React Context API
+
+A Simple Contact Manager Project using React with Context API. Cotnact Data is used from [JSON Placeholder API](https://jsonplaceholder.typicode.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
